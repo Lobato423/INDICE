@@ -1,14 +1,12 @@
 # INDICE
 
-LA ESTAFA DE CÓDIGOS QR FALSOS, TAMBIÉN CONOCIDA COMO QRISHING, ES UNA TÉCNICA DE FRAUDE EN LA QUE LOS ATACANTES UTILIZAN CÓDIGOS QR MANIPULADOS O FALSIFICADOS PARA REDIRIGIR A LAS VÍCTIMAS A PÁGINAS WEB MALICIOSAS.
-ESTOS CÓDIGOS SUELEN COLOCARSE EN LUGARES PÚBLICOS(COMO PARKINS, RESTAURANTES, TIENDAS,ETC) O DIGITALES DONDE LA GENTE CONFÍA EN SU LEGITIMIDAD.
-
-
+La estafa de códigos qr falsos, también conocida como qrishing, es una técnica de fraude en la que los atacantes utilizan códigos qr manipulados o falsificados para redirigir a las víctimas a páginas web maliciosas.
+estos códigos suelen colocarse en lugares públicos (como parkings, restaurantes, tiendas, etc.) o en medios digitales, donde la gente confía en su legitimidad.
 
 
 1.[Como detectar estafa QR](https://computerhoy.20minutos.es/ciberseguridad/como-detectar-codigos-qr-maliciosos-antes-caer-trampa-1472201)
 
-2.[Aviso de policia sobre estafa QR](https://www.larazon.es/sociedad/policia-alerta-asi-estafa-escanear-codigo-que-cada-vez-esta-mas-extendida-ciudades-p7m_2025092368d27aa45f87ee0831f8b007.html)
+2.[Estafa en parkings](https://elcaso.elnacional.cat/es/noticias/multa-trafico-codigo-qr-alerta-estafa_1322137102.html?utm_source=chatgpt.com)
 
 3.[Codigos QR falsos](https://www.incibe.es/node/494006)
 
