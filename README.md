@@ -10,7 +10,7 @@ estos códigos suelen colocarse en lugares públicos (como parkings, restaurante
 1.[Como detectar estafa QR](https://computerhoy.20minutos.es/ciberseguridad/como-detectar-codigos-qr-maliciosos-antes-caer-trampa-1472201)
 
 2.[Estafa en parkings](https://elcaso.elnacional.cat/es/noticias/multa-trafico-codigo-qr-alerta-estafa_1322137102.html?utm_source=chatgpt.com)
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.KKnQ4HlwmUJKXNqgy2DUHgHaEK%3Fpid%3DApi&f=1&ipt=8e556fc789c4916a3a3202bf27559184999d79ac70477b6ca846fd7e83ad39c8&ipo=images
+
 3.[Codigos QR falsos](https://www.incibe.es/node/494006)
 
 
