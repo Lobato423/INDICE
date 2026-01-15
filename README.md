@@ -11,7 +11,7 @@ estos códigos suelen colocarse en lugares públicos (como parkings, restaurante
 
 2.[Estafa en parkings](https://elcaso.elnacional.cat/es/noticias/multa-trafico-codigo-qr-alerta-estafa_1322137102.html?utm_source=chatgpt.com)
 
-3.[Codigos QR falsos](https://www.incibe.es/node/494006)
+3.[Folletos con direcciones falsas]([https://www.incibe.es/node/494006](https://treadwellcu.com/2024/11/01/qr-code-scams-on-the-rise/?utm_source=chatgpt.com))
 
 
 
