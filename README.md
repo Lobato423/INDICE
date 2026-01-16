@@ -18,6 +18,7 @@ estos códigos suelen colocarse en lugares públicos (como parkings, restaurante
 ![QR](https://github.com/user-attachments/assets/e6f1ddfc-75c6-4daa-89a2-878e06bd38b2)
 
 
+<img width="1024" height="1536" alt="ChatGPT Image 16 ene 2026, 10_18_55" src="https://github.com/user-attachments/assets/70888677-e71e-4167-be39-ecdb313d2380" />
 
 
 
