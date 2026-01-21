@@ -14,6 +14,18 @@ Las estafas con códigos QR se pueden detectar observando algunos detalles clave
 
 Después de escanear, es importante revisar la dirección web y comprobar que coincide con la entidad real y no tenga errores o dominios extraños. Nunca se deben introducir datos bancarios ni contraseñas. Si hay sospecha de estafa, lo mejor es cerrar la página y no continuar.
 
+¿QUE HACER SI TE ESTAFA?
+
+
+Contacta con tu banco inmediatamente para bloquear la tarjeta o el pago y evitar más cargos.
+
+Cambia las contraseñas de las cuentas que hayas usado o que estén relacionadas (correo, banca online, apps).
+
+Guarda pruebas: capturas de la web, del QR, mensajes, justificantes de pago.
+
+Denuncia la estafa ante la Policía o Guardia Civil (en España también puedes usar el INCIBE – 017).
+
+Revisa tus movimientos bancarios durante los días siguientes por si hay cargos sospechosos.
 
 1.[Estafa en parkings](https://elcaso.elnacional.cat/es/noticias/multa-trafico-codigo-qr-alerta-estafa_1322137102.html?utm_source=chatgpt.com)
 
