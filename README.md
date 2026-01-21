@@ -7,6 +7,13 @@ La estafa de códigos qr falsos, también conocida como qrishing, es una técnic
 estos códigos suelen colocarse en lugares públicos (como parkings, restaurantes, tiendas, etc.) o en medios digitales, donde la gente confía en su legitimidad.
 
 
+¿COMO DETECTAR LOS CÓDIGOS QR FALSOS?
+Las estafas con códigos QR se pueden detectar observando algunos detalles clave. Antes de escanear, hay que fijarse si el QR está pegado encima de otro, mal colocado o sin una explicación clara, ya que los códigos oficiales suelen estar impresos. También hay que desconfiar si el QR pide pagar una multa, introduce urgencia o solicita datos personales.
+
+Después de escanear, es importante revisar la dirección web y comprobar que coincide con la entidad real y no tenga errores o dominios extraños. Nunca se deben introducir datos bancarios ni contraseñas. Si hay sospecha de estafa, lo mejor es cerrar la página y no continuar.
+
+
+
 1.[Como detectar estafa QR](https://computerhoy.20minutos.es/ciberseguridad/como-detectar-codigos-qr-maliciosos-antes-caer-trampa-1472201)
 
 2.[Estafa en parkings](https://elcaso.elnacional.cat/es/noticias/multa-trafico-codigo-qr-alerta-estafa_1322137102.html?utm_source=chatgpt.com)
