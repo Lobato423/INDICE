@@ -1,7 +1,7 @@
 
 
 
-# INDICE
+# ESTAFA DE CODIGOS QR FALSOS
 
 La estafa de códigos qr falsos, también conocida como qrishing, es una técnica de fraude en la que los atacantes utilizan códigos qr manipulados o falsificados para redirigir a las víctimas a páginas web maliciosas.
 estos códigos suelen colocarse en lugares públicos (como parkings, restaurantes, tiendas, etc.) o en medios digitales, donde la gente confía en su legitimidad.
